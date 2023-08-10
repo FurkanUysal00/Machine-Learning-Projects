@@ -4,8 +4,8 @@ This repository contains a simple linear regression model implemented on the "ce
 # Dataset
 The "cereal.csv" dataset contains information about various cereal brands and their nutritional attributes, including sugars and ratings.
 
-Approach
-# Exploratory Data Analysis (EDA): The dataset was first loaded and explored to understand its structure and attributes.
+# Approach
+Exploratory Data Analysis (EDA): The dataset was first loaded and explored to understand its structure and attributes.
 
 Data Visualization: A scatter plot was created to visualize the negative linear relationship between sugars and ratings. It was observed that cereals with higher sugar content tend to have lower ratings.
 
